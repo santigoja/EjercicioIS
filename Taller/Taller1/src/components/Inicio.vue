@@ -57,6 +57,7 @@ const handleSubmit = async () => {
     </p>
 
     <p class="msg">{{ message }}</p>
+    <p>Bienvenido a mi primera prueba 🚀</p>
   </div>
 </template>
 
