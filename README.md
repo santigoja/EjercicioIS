@@ -19,17 +19,20 @@ Incluye tanto el **backend (FastAPI)** como el **frontend (Vue.js)**.
 
 ## 🚀 Cómo ejecutar el proyecto
 
-### 1. Clonar el repositorio
+### Clonar el repositorio
 ```bash
 git clone https://github.com/santigoja/REPO.git
 cd REPO
 
+Backend
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 
+Frontend
 cd frontend
 npm install
 npm run dev
+
 
 El backend y el frontend deben correr al mismo tiempo en terminales separadas.
