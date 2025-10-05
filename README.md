@@ -36,3 +36,8 @@ npm run dev
 
 
 El backend y el frontend deben correr al mismo tiempo en terminales separadas.
+
+
+
+Este texto fue agregado como parte del taller práctico de GitHub.
+Aquí probamos cómo crear una rama, hacer cambios y subirlos.
